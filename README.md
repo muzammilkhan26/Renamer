@@ -5,12 +5,12 @@ This is a Python program that allows bulk renaming of files in a specified folde
 ## How to Use
 
 1. **Clone the Repository**:
-git clone https://github.com/muzammilkhan26/renamer
+`git clone https://github.com/muzammilkhan26/renamer`
 
 
 2. **Install Required Libraries**:
 Make sure you have Python installed. Then, install the required libraries using pip:
-```pip install pandas```
+`pip install -r requirements.txt`
 
 3. **Run the Program**:
 Run the `main.pyw` script using Python:
