@@ -5,7 +5,7 @@ This is a Python program that allows bulk renaming of files in a specified folde
 ## How to Use
 
 1. **Clone the Repository**:
-`git clone git@github.com:muzammilkhan26/renamer.git`
+`git clone 'git@github.com:muzammilkhan26/renamer.git'`
 
 
 2. **Install Required Libraries**:
